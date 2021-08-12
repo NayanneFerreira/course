@@ -43,6 +43,10 @@ public class Program {
 			System.out.print("update data: "+product);
 		
 		sc.close();
+		
+		System.out.println();
+		System.out.println("Thank you!");
 	}
+	
 
 }
